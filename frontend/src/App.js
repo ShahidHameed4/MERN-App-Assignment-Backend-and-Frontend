@@ -42,7 +42,7 @@ function App() {
 
       <Button onClick={handleSubmit}>Submit</Button>  
 
-         <Update />
+    
     </div>
   );
 }
